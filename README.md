@@ -1,0 +1,1 @@
+# majink.github.io
