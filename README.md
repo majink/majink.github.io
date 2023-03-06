@@ -1,4 +1,4 @@
-# majink.github.io
+majink.github.io
 
 # AI프로젝트 입문 1분반<br>
 22100228 김하진<br>
